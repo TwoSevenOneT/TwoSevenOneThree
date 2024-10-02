@@ -18,7 +18,9 @@ My name, "2x7EQ13," is inspired by a classic Vietnamese joke, "Hai bảy mười
 ## 📫 How to Reach Me
 
 Feel free to reach out if you want to discuss cybersecurity, programming, or collaboration opportunities!
+
 My Email: 2x7eq13@proton.me
+
 ---
 
 Thank you for visiting my profile! 🚀
