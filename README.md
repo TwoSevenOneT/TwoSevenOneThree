@@ -21,6 +21,8 @@ Feel free to reach out if you want to discuss cybersecurity, programming, or col
 
 My Email: 2x7eq13@proton.me
 
+X (Twitter): [@TwoSevenOneT](https://x.com/TwoSevenOneT) 
+
 ---
 
 Thank you for visiting my profile! 🚀
