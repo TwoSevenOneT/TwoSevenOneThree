@@ -20,7 +20,6 @@ I'm a passionate C/C++ programmer with a keen interest in cybersecurity, particu
 
 Feel free to reach out if you want to discuss cybersecurity, programming, or collaboration opportunities!
 
-My Email: 2x7eq13@proton.me
 
 X (Twitter): [@TwoSevenOneT](https://x.com/TwoSevenOneT) 
 
