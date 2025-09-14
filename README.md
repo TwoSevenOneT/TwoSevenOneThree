@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm 2x7EQ13!
+# 👋 Hi there, I'm Two Seven One Three!
 
 I'm a passionate C/C++ programmer with a keen interest in cybersecurity, particularly in monitoring Ransomware gangs and Cybercrime Syndicates.
 
@@ -13,6 +13,8 @@ I'm a passionate C/C++ programmer with a keen interest in cybersecurity, particu
 - Malware Analysis
 - Secure Coding Practices
 - Vulnerability Assessment
+- Offensive Security
+- Social Engineering Awareness
 
 ## 📫 How to Reach Me
 
